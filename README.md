@@ -1,6 +1,6 @@
 # jupy_chat_app
 
-A new Flutter project.
+A simple flutter chat app for learning purpose
 
 ## Getting Started
 
